@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dharmic AI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="app">
+
+    <!-- Header -->
+    <header class="header">
+        <h1>Dharmic AI</h1>
+        <button id="themeToggle">🌙</button>
+    </header>
+
+    <!-- Chat Area -->
+    <main class="chat-container" id="chatContainer">
+
+        <!-- Initial AI Message -->
+        <div class="message ai ai-message">
+            <div class="ai-section">
+                <div class="ai-section-title">Welcome</div>
+                <p>🙏 Namaste. Ask me anything about Dharma.</p>
+            </div>
+        </div>
+
+        <!-- Example long answer structure (AI will generate similar) -->
+        <!--
+        <div class="message ai ai-message">
+            <div class="ai-section">
+                <div class="ai-section-title">Summary</div>
+                <p>Short calm overview.</p>
+            </div>
+
+            <div class="ai-section">
+                <div class="ai-section-title">Explanation</div>
+                <p>Detailed explanation goes here.</p>
+            </div>
+
+            <div class="ai-section">
+                <div class="ai-section-title">Verses</div>
+
+                <div class="verse-card">
+                    कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+                    <div class="verse-source">— Bhagavad Gita 2.47</div>
+                </div>
+            </div>
+        </div>
+        -->
+
+    </main>
+
+    <!-- Input Area -->
+    <footer class="input-area">
+        <input type="text" id="userInput" placeholder="Ask a question about Dharma..." />
+        <button id="sendBtn">Send</button>
+    </footer>
+
+</div>
+
+<!-- JS -->
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,579 @@
+[
+  {
+    "book": "Gita",
+    "ref": "BG 2.47",
+    "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+    "meaning": "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.",
+    "tags": [
+      "karma",
+      "duty",
+      "action",
+      "detachment"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 2.48",
+    "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।",
+    "meaning": "Perform your duty with steadiness of mind, abandoning attachment to success and failure.",
+    "tags": [
+      "detachment",
+      "balance",
+      "karma",
+      "yoga"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 3.19",
+    "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।",
+    "meaning": "Therefore, always perform your duty without attachment, for by doing so one attains the Supreme.",
+    "tags": [
+      "duty",
+      "selfless_action",
+      "karma"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 4.38",
+    "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।",
+    "meaning": "In this world, there is nothing as purifying as true knowledge.",
+    "tags": [
+      "knowledge",
+      "wisdom",
+      "purification"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 6.5",
+    "sanskrit": "उद्धरेदात्मनाऽत्मानं नात्मानमवसादयेत् ।",
+    "meaning": "One must elevate oneself by one’s own mind, and not degrade oneself.",
+    "tags": [
+      "self_control",
+      "self_upliftment",
+      "discipline"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 12.15",
+    "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।",
+    "meaning": "One who is not disturbed by others and who does not disturb others is dear to the Lord.",
+    "tags": [
+      "devotion",
+      "compassion",
+      "peace"
+    ]
+  },
+  {
+    "ref": "ISHA 1",
+    "sanskrit": "ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत् ।",
+    "meaning": "All this—whatever exists in this universe—is pervaded by the Supreme.",
+    "tags": [
+      "self",
+      "universe",
+      "knowledge"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 2",
+    "sanskrit": "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः ।",
+    "meaning": "One should desire to live a hundred years by performing actions in a spirit of renunciation.",
+    "tags": [
+      "karma",
+      "duty",
+      "renunciation"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 6",
+    "sanskrit": "यस्तु सर्वाणि भूतानि आत्मन्येवानुपश्यति ।",
+    "meaning": "He who sees all beings in his own Self and his own Self in all beings feels no hatred.",
+    "tags": [
+      "self",
+      "unity",
+      "compassion"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 7",
+    "sanskrit": "यस्मिन्न्सर्वाणि भूतानि आत्मैवाभूद्विजानतः ।",
+    "meaning": "When a person realizes that all beings are one with the Self, what delusion or sorrow can exist?",
+    "tags": [
+      "knowledge",
+      "liberation",
+      "self"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 15",
+    "sanskrit": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् ।",
+    "meaning": "The face of Truth is hidden by a golden disc; remove it so that I may see the truth.",
+    "tags": [
+      "truth",
+      "knowledge",
+      "liberation"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 3",
+    "sanskrit": "असुर्या नाम ते लोका अन्धेन तमसाऽऽवृताः ।",
+    "meaning": "Those worlds are enveloped in darkness, where people live without understanding the Self.",
+    "tags": [
+      "ignorance",
+      "self",
+      "darkness"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 4",
+    "sanskrit": "अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन् पूर्वमर्षत् ।",
+    "meaning": "The Self is unmoving, yet faster than the mind. The senses cannot reach it, for it is ever ahead.",
+    "tags": [
+      "self",
+      "consciousness",
+      "knowledge"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 5",
+    "sanskrit": "तदेजति तन्नैजति तद्दूरे तद्वन्तिके ।",
+    "meaning": "It moves and it moves not; it is far and it is near; it is within all and outside all.",
+    "tags": [
+      "brahman",
+      "paradox",
+      "reality"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 8",
+    "sanskrit": "स पर्यगाच्छुक्रमकायमव्रणमस्नाविरं शुद्धमपापविद्धम् ।",
+    "meaning": "The Self is all-pervading, pure, bodiless, untouched by sin, and self-existent.",
+    "tags": [
+      "purity",
+      "self",
+      "liberation"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 9",
+    "sanskrit": "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते ।",
+    "meaning": "Those who follow ignorance enter darkness; those who worship knowledge alone enter even greater darkness.",
+    "tags": [
+      "knowledge",
+      "ignorance",
+      "balance"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "ISHA 11",
+    "sanskrit": "विद्यां चाविद्यां च यस्तद्वेदोभयं सह ।",
+    "meaning": "He who knows both knowledge and action together crosses death through action and attains immortality through knowledge.",
+    "tags": [
+      "knowledge",
+      "karma",
+      "liberation"
+    ],
+    "book": "Isha Upanishad"
+  },
+  {
+    "ref": "RAMA-1.1",
+    "sanskrit": "धर्मात्मा सत्यसन्धश्च रामो दाशरथिर्वीरः ।",
+    "meaning": "Rama, the son of Dasharatha, was virtuous, truthful, courageous, and firmly established in Dharma.",
+    "tags": [
+      "dharma",
+      "truth",
+      "ideal_leader"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-2.20",
+    "sanskrit": "पितृवाक्यपरिपालनं धर्मः परम उच्यते ।",
+    "meaning": "Upholding the word of one’s father is considered the highest Dharma.",
+    "tags": [
+      "duty",
+      "obedience",
+      "family_dharma"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-2.109",
+    "sanskrit": "सत्यं धर्मः परो लोके सत्ये धर्मः प्रतिष्ठितः ।",
+    "meaning": "Truth is the supreme Dharma in this world; Dharma itself is established upon truth.",
+    "tags": [
+      "truth",
+      "righteousness"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-3.6",
+    "sanskrit": "परित्यजेदर्थकामौ धर्ममेवानुस्मरेत् ।",
+    "meaning": "One should renounce desire and material gain and always remember Dharma.",
+    "tags": [
+      "detachment",
+      "self_control"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-4.18",
+    "sanskrit": "अनृतं न वदेत् किञ्चित् धर्मे स्थित्वा नरः सदा ।",
+    "meaning": "A person established in Dharma should never speak falsehood.",
+    "tags": [
+      "truth",
+      "conduct"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-5.34",
+    "sanskrit": "सर्वेषां हितकाम्यया धर्ममेव समाचरेत् ।",
+    "meaning": "For the welfare of all beings, one should always act according to Dharma.",
+    "tags": [
+      "compassion",
+      "service"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-6.115",
+    "sanskrit": "न परित्यज्यते धर्मः सुखदुःखेषु केनचित् ।",
+    "meaning": "Dharma should never be abandoned, whether in happiness or sorrow.",
+    "tags": [
+      "steadfastness",
+      "resilience"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-7.35",
+    "sanskrit": "धर्मेण राज्यं कुरुते स राजा सुखमेधते ।",
+    "meaning": "A king who rules according to Dharma ensures happiness and prosperity.",
+    "tags": [
+      "leadership",
+      "governance"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-2.12",
+    "sanskrit": "धर्मज्ञः कृतविद्यश्च सर्वभूतेषु राघवः ।",
+    "meaning": "Rama was well-versed in Dharma, educated, and compassionate towards all beings.",
+    "tags": [
+      "wisdom",
+      "compassion",
+      "dharma"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-2.21",
+    "sanskrit": "न त्यजेदात्मनः प्राणान् धर्मेण परिरक्षितान् ।",
+    "meaning": "One should protect one’s life, but never abandon Dharma for the sake of life.",
+    "tags": [
+      "dharma",
+      "sacrifice",
+      "courage"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-2.38",
+    "sanskrit": "धर्म एव हतो हन्ति धर्मो रक्षति रक्षितः ।",
+    "meaning": "Dharma destroys those who violate it and protects those who uphold it.",
+    "tags": [
+      "justice",
+      "moral_law"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-3.10",
+    "sanskrit": "न क्रोधवशमापन्नो धर्मं त्यजति राघवः ।",
+    "meaning": "Rama never abandoned Dharma even when overcome by anger.",
+    "tags": [
+      "anger_control",
+      "self_discipline"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-3.29",
+    "sanskrit": "अहिंसा परमो धर्मः सर्वेषां हितकारिणी ।",
+    "meaning": "Non-violence is the highest Dharma and is beneficial for all beings.",
+    "tags": [
+      "non_violence",
+      "compassion"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-4.7",
+    "sanskrit": "सन्तोषः परमं सौख्यं धर्ममूलं सुखावहम् ।",
+    "meaning": "Contentment is the greatest happiness, rooted in Dharma.",
+    "tags": [
+      "contentment",
+      "inner_peace"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-5.12",
+    "sanskrit": "धैर्यं धर्मस्य मूलं स्यात् सर्वकार्येषु शोभनम् ।",
+    "meaning": "Patience is the foundation of Dharma and brings excellence in all actions.",
+    "tags": [
+      "patience",
+      "perseverance"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-6.5",
+    "sanskrit": "क्षमा धर्मस्य भूषणं वीराणां च विशेषतः ।",
+    "meaning": "Forgiveness is the ornament of Dharma, especially for the strong.",
+    "tags": [
+      "forgiveness",
+      "strength"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-6.18",
+    "sanskrit": "धर्मात् न विचलत्येव यः स पन्थाः सनातनः ।",
+    "meaning": "The eternal path is the one that never deviates from Dharma.",
+    "tags": [
+      "eternal_path",
+      "righteousness"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "ref": "RAMA-7.82",
+    "sanskrit": "प्रजाहिते नृपः स्याद् धर्मेणैव प्रपालकः ।",
+    "meaning": "A ruler must protect his people by governing strictly according to Dharma.",
+    "tags": [
+      "leadership",
+      "public_welfare"
+    ],
+    "book": "Ramayana"
+  },
+  {
+    "id": "MBH_009",
+    "book": "Mahabharata",
+    "parva": "Udyoga Parva",
+    "context": "Krishna warns about consequences of war",
+    "speaker": "Krishna",
+    "listener": "Dhritarashtra",
+    "concept": "Consequences",
+    "situation": "A ruler ignores clear warnings",
+    "meaning": "Ignoring wise counsel leads to inevitable suffering",
+    "explanation": "Krishna explains that knowledge rejected out of attachment becomes the cause of downfall."
+  },
+  {
+    "id": "MBH_010",
+    "book": "Mahabharata",
+    "parva": "Udyoga Parva",
+    "context": "Sanjaya advises peace",
+    "speaker": "Sanjaya",
+    "listener": "Dhritarashtra",
+    "concept": "Wisdom",
+    "situation": "War can still be avoided",
+    "meaning": "Wisdom lies in restraint, not victory",
+    "explanation": "Sanjaya teaches that real strength is the ability to stop destruction, not to win it."
+  },
+  {
+    "id": "MBH_011",
+    "book": "Mahabharata",
+    "parva": "Sabha Parva",
+    "context": "Karna supports Draupadi’s humiliation",
+    "speaker": "Karna",
+    "listener": "Royal court",
+    "concept": "Moral Fall",
+    "situation": "Pride overrides righteousness",
+    "meaning": "Intelligence without ethics becomes cruelty",
+    "explanation": "Karna’s loyalty to ego and rivalry blinds his sense of justice."
+  },
+  {
+    "id": "MBH_012",
+    "book": "Mahabharata",
+    "parva": "Sabha Parva",
+    "context": "Bhishma remains silent",
+    "speaker": "Bhishma",
+    "listener": "Himself",
+    "concept": "Moral Conflict",
+    "situation": "Duty to throne conflicts with duty to Dharma",
+    "meaning": "Moral confusion weakens even the greatest",
+    "explanation": "Bhishma’s silence shows how unresolved vows can paralyze righteousness."
+  },
+  {
+    "id": "MBH_013",
+    "book": "Mahabharata",
+    "parva": "Vana Parva",
+    "context": "Pandavas live in exile",
+    "speaker": "Yudhishthira",
+    "listener": "Himself",
+    "concept": "Patience",
+    "situation": "Loss of kingdom and dignity",
+    "meaning": "Endurance preserves Dharma in adversity",
+    "explanation": "Yudhishthira reflects that suffering faced with patience refines character."
+  },
+  {
+    "id": "MBH_014",
+    "book": "Mahabharata",
+    "parva": "Vana Parva",
+    "context": "Draupadi questions fate",
+    "speaker": "Draupadi",
+    "listener": "Yudhishthira",
+    "concept": "Fate vs Effort",
+    "situation": "Repeated injustice despite virtue",
+    "meaning": "Effort must accompany righteousness",
+    "explanation": "Draupadi argues that Dharma without action allows injustice to continue."
+  },
+  {
+    "id": "MBH_015",
+    "book": "Mahabharata",
+    "parva": "Bhishma Parva",
+    "context": "Bhishma fights for the throne",
+    "speaker": "Bhishma",
+    "listener": "Pandavas",
+    "concept": "Loyalty",
+    "situation": "Serving an unjust side due to vows",
+    "meaning": "Blind loyalty leads to tragic outcomes",
+    "explanation": "Bhishma’s strength serves power, not justice, revealing the cost of misplaced loyalty."
+  },
+  {
+    "id": "MBH_016",
+    "book": "Mahabharata",
+    "parva": "Bhishma Parva",
+    "context": "Krishna breaks his vow",
+    "speaker": "Krishna",
+    "listener": "Arjuna",
+    "concept": "Higher Dharma",
+    "situation": "Bhishma becomes unstoppable",
+    "meaning": "Dharma is higher than personal vows",
+    "explanation": "Krishna shows that protecting justice outweighs rigid rule-following."
+  },
+  {
+    "id": "MBH_017",
+    "book": "Mahabharata",
+    "parva": "Drona Parva",
+    "context": "Death of Abhimanyu",
+    "speaker": "Arjuna",
+    "listener": "Krishna",
+    "concept": "Grief",
+    "situation": "Loss of a loved one",
+    "meaning": "Grief must not turn into blind revenge",
+    "explanation": "Arjuna’s sorrow is human, but Krishna urges restraint and clarity."
+  },
+  {
+    "id": "MBH_018",
+    "book": "Mahabharata",
+    "parva": "Drona Parva",
+    "context": "Half-truth about Ashwatthama",
+    "speaker": "Yudhishthira",
+    "listener": "Drona",
+    "concept": "Ethical Dilemma",
+    "situation": "Truth conflicts with survival",
+    "meaning": "Compromised truth carries moral weight",
+    "explanation": "Yudhishthira’s action saves lives but scars his conscience."
+  },
+  {
+    "id": "MBH_019",
+    "book": "Mahabharata",
+    "parva": "Karna Parva",
+    "context": "Karna reflects before battle",
+    "speaker": "Karna",
+    "listener": "Himself",
+    "concept": "Regret",
+    "situation": "Realization comes too late",
+    "meaning": "Awareness delayed becomes suffering",
+    "explanation": "Karna realizes that pride shaped his tragic path."
+  },
+  {
+    "id": "MBH_020",
+    "book": "Mahabharata",
+    "parva": "Karna Parva",
+    "context": "Karna refuses mercy",
+    "speaker": "Karna",
+    "listener": "Krishna",
+    "concept": "Honor",
+    "situation": "Opportunity to avoid death",
+    "meaning": "Honor without wisdom leads to destruction",
+    "explanation": "Karna chooses pride over survival."
+  },
+  {
+    "id": "MBH_021",
+    "book": "Mahabharata",
+    "parva": "Shalya Parva",
+    "context": "Duryodhana’s final stand",
+    "speaker": "Duryodhana",
+    "listener": "Balarama",
+    "concept": "Arrogance",
+    "situation": "Defeat is imminent",
+    "meaning": "Arrogance survives even collapse",
+    "explanation": "Duryodhana blames fate, not his choices."
+  },
+  {
+    "id": "MBH_022",
+    "book": "Mahabharata",
+    "parva": "Stri Parva",
+    "context": "Aftermath of war",
+    "speaker": "Gandhari",
+    "listener": "Krishna",
+    "concept": "Suffering",
+    "situation": "Mothers grieve their sons",
+    "meaning": "War punishes all sides",
+    "explanation": "Gandhari’s grief exposes the true cost of conflict."
+  },
+  {
+    "id": "MBH_023",
+    "book": "Mahabharata",
+    "parva": "Stri Parva",
+    "context": "Gandhari curses Krishna",
+    "speaker": "Gandhari",
+    "listener": "Krishna",
+    "concept": "Anguish",
+    "situation": "Loss overwhelms wisdom",
+    "meaning": "Pain can distort even righteous minds",
+    "explanation": "Dharma recognizes grief without justifying cruelty."
+  },
+  {
+    "id": "MBH_024",
+    "book": "Mahabharata",
+    "parva": "Shanti Parva",
+    "context": "Lessons after destruction",
+    "speaker": "Bhishma",
+    "listener": "Yudhishthira",
+    "concept": "Governance",
+    "situation": "A king fears ruling after war",
+    "meaning": "Leadership requires courage after failure",
+    "explanation": "Bhishma teaches that responsibility does not end with regret."
+  },
+  {
+    "id": "MBH_025",
+    "book": "Mahabharata",
+    "parva": "Anushasana Parva",
+    "context": "Charity and conduct",
+    "speaker": "Bhishma",
+    "listener": "Yudhishthira",
+    "concept": "Charity",
+    "situation": "Use of wealth",
+    "meaning": "Giving purifies power",
+    "explanation": "Charity prevents accumulation from becoming corruption."
+  }
+]

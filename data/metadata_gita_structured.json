@@ -1,0 +1,70 @@
+[
+  {
+    "book": "Gita",
+    "ref": "BG 2.47",
+    "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+    "meaning": "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.",
+    "tags": [
+      "karma",
+      "duty",
+      "action",
+      "detachment"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 2.48",
+    "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।",
+    "meaning": "Perform your duty with steadiness of mind, abandoning attachment to success and failure.",
+    "tags": [
+      "detachment",
+      "balance",
+      "karma",
+      "yoga"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 3.19",
+    "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।",
+    "meaning": "Therefore, always perform your duty without attachment, for by doing so one attains the Supreme.",
+    "tags": [
+      "duty",
+      "selfless_action",
+      "karma"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 4.38",
+    "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।",
+    "meaning": "In this world, there is nothing as purifying as true knowledge.",
+    "tags": [
+      "knowledge",
+      "wisdom",
+      "purification"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 6.5",
+    "sanskrit": "उद्धरेदात्मनाऽत्मानं नात्मानमवसादयेत् ।",
+    "meaning": "One must elevate oneself by one’s own mind, and not degrade oneself.",
+    "tags": [
+      "self_control",
+      "self_upliftment",
+      "discipline"
+    ]
+  },
+  {
+    "book": "Gita",
+    "ref": "BG 12.15",
+    "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।",
+    "meaning": "One who is not disturbed by others and who does not disturb others is dear to the Lord.",
+    "tags": [
+      "devotion",
+      "compassion",
+      "peace"
+    ]
+  }
+]

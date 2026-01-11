@@ -1,0 +1,59 @@
+---
+REF: BG 2.47
+SANSKRIT:
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+MEANING:
+You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.
+TAGS:
+karma, duty, action, detachment
+---
+
+---
+REF: BG 2.48
+SANSKRIT:
+योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।
+MEANING:
+Perform your duty with steadiness of mind, abandoning attachment to success and failure.
+TAGS:
+detachment, balance, karma, yoga
+---
+
+---
+REF: BG 3.19
+SANSKRIT:
+तस्मादसक्तः सततं कार्यं कर्म समाचर ।
+MEANING:
+Therefore, always perform your duty without attachment, for by doing so one attains the Supreme.
+TAGS:
+duty, selfless_action, karma
+---
+
+---
+REF: BG 4.38
+SANSKRIT:
+न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।
+MEANING:
+In this world, there is nothing as purifying as true knowledge.
+TAGS:
+knowledge, wisdom, purification
+---
+
+---
+REF: BG 6.5
+SANSKRIT:
+उद्धरेदात्मनाऽत्मानं नात्मानमवसादयेत् ।
+MEANING:
+One must elevate oneself by one’s own mind, and not degrade oneself.
+TAGS:
+self_control, self_upliftment, discipline
+---
+
+---
+REF: BG 12.15
+SANSKRIT:
+यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।
+MEANING:
+One who is not disturbed by others and who does not disturb others is dear to the Lord.
+TAGS:
+devotion, compassion, peace
+---

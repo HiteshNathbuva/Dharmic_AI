@@ -1,0 +1,220 @@
+---
+
+ID: MBH_009
+Book: Mahabharata
+Parva: Udyoga Parva
+Context: Krishna warns about consequences of war
+Speaker: Krishna
+Listener: Dhritarashtra
+Concept: Consequences
+Situation: A ruler ignores clear warnings
+Teaching: Ignoring wise counsel leads to inevitable suffering
+Explanation: Krishna explains that knowledge rejected out of attachment becomes the cause of downfall.
+
+---
+
+ID: MBH_010
+Book: Mahabharata
+Parva: Udyoga Parva
+Context: Sanjaya advises peace
+Speaker: Sanjaya
+Listener: Dhritarashtra
+Concept: Wisdom
+Situation: War can still be avoided
+Teaching: Wisdom lies in restraint, not victory
+Explanation: Sanjaya teaches that real strength is the ability to stop destruction, not to win it.
+
+---
+
+ID: MBH_011
+Book: Mahabharata
+Parva: Sabha Parva
+Context: Karna supports Draupadi’s humiliation
+Speaker: Karna
+Listener: Royal court
+Concept: Moral Fall
+Situation: Pride overrides righteousness
+Teaching: Intelligence without ethics becomes cruelty
+Explanation: Karna’s loyalty to ego and rivalry blinds his sense of justice.
+
+---
+
+ID: MBH_012
+Book: Mahabharata
+Parva: Sabha Parva
+Context: Bhishma remains silent
+Speaker: Bhishma
+Listener: Himself
+Concept: Moral Conflict
+Situation: Duty to throne conflicts with duty to Dharma
+Teaching: Moral confusion weakens even the greatest
+Explanation: Bhishma’s silence shows how unresolved vows can paralyze righteousness.
+
+---
+
+ID: MBH_013
+Book: Mahabharata
+Parva: Vana Parva
+Context: Pandavas live in exile
+Speaker: Yudhishthira
+Listener: Himself
+Concept: Patience
+Situation: Loss of kingdom and dignity
+Teaching: Endurance preserves Dharma in adversity
+Explanation: Yudhishthira reflects that suffering faced with patience refines character.
+
+---
+
+ID: MBH_014
+Book: Mahabharata
+Parva: Vana Parva
+Context: Draupadi questions fate
+Speaker: Draupadi
+Listener: Yudhishthira
+Concept: Fate vs Effort
+Situation: Repeated injustice despite virtue
+Teaching: Effort must accompany righteousness
+Explanation: Draupadi argues that Dharma without action allows injustice to continue.
+
+---
+
+ID: MBH_015
+Book: Mahabharata
+Parva: Bhishma Parva
+Context: Bhishma fights for the throne
+Speaker: Bhishma
+Listener: Pandavas
+Concept: Loyalty
+Situation: Serving an unjust side due to vows
+Teaching: Blind loyalty leads to tragic outcomes
+Explanation: Bhishma’s strength serves power, not justice, revealing the cost of misplaced loyalty.
+
+---
+
+ID: MBH_016
+Book: Mahabharata
+Parva: Bhishma Parva
+Context: Krishna breaks his vow
+Speaker: Krishna
+Listener: Arjuna
+Concept: Higher Dharma
+Situation: Bhishma becomes unstoppable
+Teaching: Dharma is higher than personal vows
+Explanation: Krishna shows that protecting justice outweighs rigid rule-following.
+
+---
+
+ID: MBH_017
+Book: Mahabharata
+Parva: Drona Parva
+Context: Death of Abhimanyu
+Speaker: Arjuna
+Listener: Krishna
+Concept: Grief
+Situation: Loss of a loved one
+Teaching: Grief must not turn into blind revenge
+Explanation: Arjuna’s sorrow is human, but Krishna urges restraint and clarity.
+
+---
+
+ID: MBH_018
+Book: Mahabharata
+Parva: Drona Parva
+Context: Half-truth about Ashwatthama
+Speaker: Yudhishthira
+Listener: Drona
+Concept: Ethical Dilemma
+Situation: Truth conflicts with survival
+Teaching: Compromised truth carries moral weight
+Explanation: Yudhishthira’s action saves lives but scars his conscience.
+
+---
+
+ID: MBH_019
+Book: Mahabharata
+Parva: Karna Parva
+Context: Karna reflects before battle
+Speaker: Karna
+Listener: Himself
+Concept: Regret
+Situation: Realization comes too late
+Teaching: Awareness delayed becomes suffering
+Explanation: Karna realizes that pride shaped his tragic path.
+
+---
+
+ID: MBH_020
+Book: Mahabharata
+Parva: Karna Parva
+Context: Karna refuses mercy
+Speaker: Karna
+Listener: Krishna
+Concept: Honor
+Situation: Opportunity to avoid death
+Teaching: Honor without wisdom leads to destruction
+Explanation: Karna chooses pride over survival.
+
+---
+
+ID: MBH_021
+Book: Mahabharata
+Parva: Shalya Parva
+Context: Duryodhana’s final stand
+Speaker: Duryodhana
+Listener: Balarama
+Concept: Arrogance
+Situation: Defeat is imminent
+Teaching: Arrogance survives even collapse
+Explanation: Duryodhana blames fate, not his choices.
+
+---
+
+ID: MBH_022
+Book: Mahabharata
+Parva: Stri Parva
+Context: Aftermath of war
+Speaker: Gandhari
+Listener: Krishna
+Concept: Suffering
+Situation: Mothers grieve their sons
+Teaching: War punishes all sides
+Explanation: Gandhari’s grief exposes the true cost of conflict.
+
+---
+
+ID: MBH_023
+Book: Mahabharata
+Parva: Stri Parva
+Context: Gandhari curses Krishna
+Speaker: Gandhari
+Listener: Krishna
+Concept: Anguish
+Situation: Loss overwhelms wisdom
+Teaching: Pain can distort even righteous minds
+Explanation: Dharma recognizes grief without justifying cruelty.
+
+---
+
+ID: MBH_024
+Book: Mahabharata
+Parva: Shanti Parva
+Context: Lessons after destruction
+Speaker: Bhishma
+Listener: Yudhishthira
+Concept: Governance
+Situation: A king fears ruling after war
+Teaching: Leadership requires courage after failure
+Explanation: Bhishma teaches that responsibility does not end with regret.
+
+---
+
+ID: MBH_025
+Book: Mahabharata
+Parva: Anushasana Parva
+Context: Charity and conduct
+Speaker: Bhishma
+Listener: Yudhishthira
+Concept: Charity
+Situation: Use of wealth
+Teaching: Giving purifies power
+Explanation: Charity prevents accumulation from becoming corruption.

@@ -1,0 +1,160 @@
+REF: RAMA-1.1
+SANSKRIT:
+धर्मात्मा सत्यसन्धश्च रामो दाशरथिर्वीरः ।
+MEANING:
+Rama, the son of Dasharatha, was virtuous, truthful, courageous, and firmly established in Dharma.
+TAGS:
+dharma, truth, ideal_leader
+---
+
+REF: RAMA-2.20
+SANSKRIT:
+पितृवाक्यपरिपालनं धर्मः परम उच्यते ।
+MEANING:
+Upholding the word of one’s father is considered the highest Dharma.
+TAGS:
+duty, obedience, family_dharma
+---
+
+REF: RAMA-2.109
+SANSKRIT:
+सत्यं धर्मः परो लोके सत्ये धर्मः प्रतिष्ठितः ।
+MEANING:
+Truth is the supreme Dharma in this world; Dharma itself is established upon truth.
+TAGS:
+truth, righteousness
+---
+
+REF: RAMA-3.6
+SANSKRIT:
+परित्यजेदर्थकामौ धर्ममेवानुस्मरेत् ।
+MEANING:
+One should renounce desire and material gain and always remember Dharma.
+TAGS:
+detachment, self_control
+---
+
+REF: RAMA-4.18
+SANSKRIT:
+अनृतं न वदेत् किञ्चित् धर्मे स्थित्वा नरः सदा ।
+MEANING:
+A person established in Dharma should never speak falsehood.
+TAGS:
+truth, conduct
+---
+
+REF: RAMA-5.34
+SANSKRIT:
+सर्वेषां हितकाम्यया धर्ममेव समाचरेत् ।
+MEANING:
+For the welfare of all beings, one should always act according to Dharma.
+TAGS:
+compassion, service
+---
+
+REF: RAMA-6.115
+SANSKRIT:
+न परित्यज्यते धर्मः सुखदुःखेषु केनचित् ।
+MEANING:
+Dharma should never be abandoned, whether in happiness or sorrow.
+TAGS:
+steadfastness, resilience
+---
+
+REF: RAMA-7.35
+SANSKRIT:
+धर्मेण राज्यं कुरुते स राजा सुखमेधते ।
+MEANING:
+A king who rules according to Dharma ensures happiness and prosperity.
+TAGS:
+leadership, governance
+---
+REF: RAMA-2.12
+SANSKRIT:
+धर्मज्ञः कृतविद्यश्च सर्वभूतेषु राघवः ।
+MEANING:
+Rama was well-versed in Dharma, educated, and compassionate towards all beings.
+TAGS:
+wisdom, compassion, dharma
+---
+
+REF: RAMA-2.21
+SANSKRIT:
+न त्यजेदात्मनः प्राणान् धर्मेण परिरक्षितान् ।
+MEANING:
+One should protect one’s life, but never abandon Dharma for the sake of life.
+TAGS:
+dharma, sacrifice, courage
+---
+
+REF: RAMA-2.38
+SANSKRIT:
+धर्म एव हतो हन्ति धर्मो रक्षति रक्षितः ।
+MEANING:
+Dharma destroys those who violate it and protects those who uphold it.
+TAGS:
+justice, moral_law
+---
+
+REF: RAMA-3.10
+SANSKRIT:
+न क्रोधवशमापन्नो धर्मं त्यजति राघवः ।
+MEANING:
+Rama never abandoned Dharma even when overcome by anger.
+TAGS:
+anger_control, self_discipline
+---
+
+REF: RAMA-3.29
+SANSKRIT:
+अहिंसा परमो धर्मः सर्वेषां हितकारिणी ।
+MEANING:
+Non-violence is the highest Dharma and is beneficial for all beings.
+TAGS:
+non_violence, compassion
+---
+
+REF: RAMA-4.7
+SANSKRIT:
+सन्तोषः परमं सौख्यं धर्ममूलं सुखावहम् ।
+MEANING:
+Contentment is the greatest happiness, rooted in Dharma.
+TAGS:
+contentment, inner_peace
+---
+
+REF: RAMA-5.12
+SANSKRIT:
+धैर्यं धर्मस्य मूलं स्यात् सर्वकार्येषु शोभनम् ।
+MEANING:
+Patience is the foundation of Dharma and brings excellence in all actions.
+TAGS:
+patience, perseverance
+---
+
+REF: RAMA-6.5
+SANSKRIT:
+क्षमा धर्मस्य भूषणं वीराणां च विशेषतः ।
+MEANING:
+Forgiveness is the ornament of Dharma, especially for the strong.
+TAGS:
+forgiveness, strength
+---
+
+REF: RAMA-6.18
+SANSKRIT:
+धर्मात् न विचलत्येव यः स पन्थाः सनातनः ।
+MEANING:
+The eternal path is the one that never deviates from Dharma.
+TAGS:
+eternal_path, righteousness
+---
+
+REF: RAMA-7.82
+SANSKRIT:
+प्रजाहिते नृपः स्याद् धर्मेणैव प्रपालकः ।
+MEANING:
+A ruler must protect his people by governing strictly according to Dharma.
+TAGS:
+leadership, public_welfare
+---

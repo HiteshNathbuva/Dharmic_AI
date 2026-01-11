@@ -1,0 +1,41 @@
+[BG-1.1]
+Book: Bhagavad Gita
+Chapter: 1
+Verse: 1
+Text: Dhritarashtra said: In the holy plain of Kurukshetra, gathered together and eager for battle, what did my people and the Pandavas do, O Sanjaya?
+
+[BG-1.2]
+Text: Sanjaya said: Seeing the army of the Pandavas drawn up for battle, King Duryodhana approached his teacher Drona and spoke these words.
+
+[BG-1.3]
+Text: Behold, O Teacher, this mighty army of the sons of Pandu, arranged for battle by the son of Drupada, your wise disciple.
+
+[BG-1.20]
+Text: At that time, Arjuna, whose chariot bore the banner of Hanuman, took up his bow and prepared to fight as the sound of conches filled the sky.
+
+[BG-2.7]
+Text: My very being is afflicted by weakness and confusion. I ask you to instruct me clearly what is best. I am your disciple; teach me, for I have surrendered unto you.
+
+[BG-2.11]
+Text: The wise grieve neither for the living nor for the dead.
+
+[BG-2.13]
+Text: Just as the soul passes through childhood, youth, and old age in this body, it similarly passes into another body at death. The wise are not deluded by this.
+
+[BG-2.47]
+Text: You have a right only to your actions, never to their fruits. Do not let the fruits of action be your motive, nor give attachment to inaction.
+
+[BG-3.19]
+Text: Therefore, always perform your duty without attachment, for by performing actions without attachment, one attains the Supreme.
+
+[BG-4.7]
+Text: Whenever righteousness declines and unrighteousness rises, then I manifest Myself age after age.
+
+[BG-4.38]
+Text: Verily, nothing in this world is so purifying as knowledge. One who is perfected in yoga finds this knowledge within himself in due time.
+
+[BG-6.5]
+Text: Let a man lift himself by his own self. Let him not degrade himself. For the self alone is the friend of oneself, and the self alone is the enemy of oneself.
+
+[BG-12.13]
+Text: He who hates no creature, who is friendly and compassionate, free from possessiveness and egoism, balanced in pleasure and pain, and forgiving — such a devotee is dear to Me.

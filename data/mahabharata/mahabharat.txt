@@ -1,0 +1,14 @@
+[MBH-ADI-1]
+Text: Ugrasrava Sauti recited the tale of the Bharatas to the sages assembled in the Naimisha forest.
+
+[MBH-SABHA-12]
+Text: In the dice hall, Yudhishthira lost his kingdom, his brothers, and even Draupadi due to the deceit of Shakuni.
+
+[MBH-VANA-47]
+Text: Arjuna received celestial weapons from Indra after performing severe austerities.
+
+[MBH-BHISHMA-23]
+Text: Seeing the opposing armies, Arjuna’s limbs trembled, and he cast aside his bow, overwhelmed with sorrow.
+
+[MBH-SALYA-61]
+Text: Bhishma lay upon a bed of arrows, instructing Yudhishthira in the duties of kings.

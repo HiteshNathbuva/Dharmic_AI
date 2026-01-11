@@ -1,0 +1,14 @@
+[RAMA-1.1]
+Text: Valmiki asked Narada: “Who among men is full of virtues, brave, truthful, firm in vow, compassionate, learned, and pleasing in appearance?”
+
+[RAMA-1.2]
+Text: Narada replied: “There is a prince named Rama, born in the Ikshvaku line, who possesses all these qualities.”
+
+[RAMA-2.18]
+Text: When Rama was exiled, the people of Ayodhya lamented, saying, “A kingdom without Rama is like a forest.”
+
+[RAMA-3.11]
+Text: Ravana, filled with arrogance, abducted Sita, believing himself invincible.
+
+[RAMA-6.128]
+Text: Rama returned to Ayodhya and was crowned king. The people rejoiced, and righteousness flourished.
