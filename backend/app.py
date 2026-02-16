@@ -12,6 +12,11 @@ from scripts.answer_generator import generate_answer
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/")
+def home():
+    return "Dharmic AI Backend is Running Successfully 🚩"
+
+
 
 @app.route("/ask", methods=["POST"])
 def ask():
