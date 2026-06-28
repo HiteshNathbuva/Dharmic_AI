@@ -1,165 +1,153 @@
-# 🕉️ Dharmic AI  
-### A RAG-Based, Domain-Restricted Dharmic Question-Answering System
+# Dharmic AI
 
----
+Dharmic AI is a Retrieval-Augmented Generation (RAG) chatbot for answering questions about Dharmic scriptures and ethics. It is designed as a focused assistant that retrieves relevant scripture records and returns grounded, human-readable answers for Dharmic topics.
 
-## 📌 Overview
+The project uses a Flask backend, FAISS vector search, SentenceTransformers embeddings, and a static HTML/CSS/JavaScript frontend.
 
-**Dharmic AI** is a **Retrieval-Augmented Generation (RAG)** based AI system designed to answer **only Dharmic, ethical, and scripture-based questions**.  
-Unlike general chatbots, this system is **strictly domain-restricted** and provides **grounded, explainable, and morally reasoned responses** based on authentic Indian scriptures.
+## Features
 
-The project focuses on:
-- Ethical AI design  
-- Explainability  
-- Human satisfaction  
-- Prevention of hallucinations  
+- Answers questions related to Dharma, Karma, ethics, and scriptures.
+- Rejects questions outside the Dharmic domain.
+- Uses FAISS for semantic retrieval over scripture metadata.
+- Uses `sentence-transformers/all-MiniLM-L6-v2` for embeddings.
+- Returns structured responses with summary, explanation, verses, sources, confidence, and disclaimer.
+- Provides a lightweight browser-based chat interface.
+- Includes light and dark theme support in the frontend.
 
----
+## Project Structure
 
-## 🎯 Project Objectives
+```text
+Dharmic_AI/
+├── backend/
+│   └── app.py
+├── data/
+│   ├── faiss.index
+│   └── metadata_merged.json
+├── frontend/
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── scripts/
+│   └── answer_generator.py
+├── .env.example
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
 
-- ✅ Answer questions related to **Dharma, Karma, Ethics, and Scriptures**
-- ❌ Reject **non-Dharmic** questions (AI, coding, general knowledge, etc.)
-- 📚 Use authentic texts such as:
-  - Bhagavad Gita
-  - Upanishads
-  - Ramayana
-  - Mahabharata
-- 🧠 Provide **human-like explanations**, not raw verse dumping
-- 🔒 Ensure **safe, focused, and responsible AI behavior**
+## Requirements
 
----
+- Python 3.10 or newer is recommended.
+- A modern web browser.
+- Internet access for the first installation of Python packages and the embedding model.
 
-## 🧠 What Makes Dharmic AI Different?
+## Installation
 
-| Feature | Normal Chatbot | Dharmic AI |
-|------|------|------|
-| Answers everything | ❌ | ❌ |
-| Domain restricted | ❌ | ✅ |
-| Uses RAG | ❌ | ✅ |
-| Grounded in scriptures | ❌ | ✅ |
-| Ethical reasoning | ❌ | ✅ |
-| Hallucination control | ❌ | ✅ |
+Clone the repository:
 
----
+```bash
+git clone https://github.com/HiteshNathbuva/Dharmic_AI.git
+cd Dharmic_AI
+```
 
+## Virtual Environment Setup
 
----
+Create a virtual environment:
 
-## 🔍 What is RAG (Retrieval-Augmented Generation)?
+```bash
+python -m venv venv
+```
 
-Dharmic AI follows a **RAG architecture**, where:
+Activate it on Windows PowerShell:
 
-- **Retrieval** → Relevant scripture teachings are fetched using FAISS  
-- **Augmentation** → Retrieved knowledge is used as the source of truth  
-- **Generation** → Explanations are written in clear, human-friendly language  
+```powershell
+.\venv\Scripts\Activate.ps1
+```
 
-This ensures:
-- ❌ No hallucination  
-- ✅ Verifiable answers  
-- ✅ Scriptural grounding  
+Activate it on macOS or Linux:
 
----
+```bash
+source venv/bin/activate
+```
 
-## 🛠️ Technologies & Libraries Used
+## Dependency Installation
 
-### Backend
-- **Python**
-- **Flask** – API server
-- **FAISS** – Vector similarity search
-- **SentenceTransformers** – Text embeddings
-- **JSON** – Structured knowledge storage
+Install the required Python packages:
 
-### Frontend
-- **HTML**
-- **CSS**
-- **JavaScript**
+```bash
+pip install -r requirements.txt
+```
 
-### Model
-- **all-MiniLM-L6-v2**
-  - Used only for **semantic retrieval**
-  - NOT used for answer generation
+## Environment Variable Setup
 
----
+Create a local `.env` file from the example file:
 
----
+```bash
+cp .env.example .env
+```
 
-## ⚙️ How the System Works (Step-by-Step)
+On Windows PowerShell, use:
 
-1. User submits a question  
-2. System checks **intent** (greeting / unclear / query)  
-3. **Domain gate** ensures the question is Dharmic  
-4. Safety filter blocks harmful content  
-5. Question is converted into embeddings  
-6. FAISS retrieves relevant scripture records  
-7. Verdict logic evaluates moral judgment (if needed)  
-8. Explanation layer generates human-friendly reasoning  
-9. Response is returned to the UI  
+```powershell
+Copy-Item .env.example .env
+```
 
----
+The current application does not require secrets to run locally. The `.env.example` file is provided as a safe template for future configuration.
 
-## 🚫 Domain Restriction (Important Feature)
+## Run the Backend
 
-Dharmic AI will **not answer**:
-- AI / LLM questions
-- Programming
-- General knowledge
-- Random queries
+From the repository root, start the Flask backend:
 
-### ❌ Rejected
-- “What is LLM?”
-- “What is Python?”
-- “Tell me a joke”
+```bash
+python backend/app.py
+```
 
-### ✅ Allowed
-- “What is Dharma?”
-- “Is lust considered wrong in Dharma?”
-- “Was the Mahabharata war justified?”
+The backend runs on:
 
----
+```text
+http://127.0.0.1:5000/
+```
 
-## 🔐 Security Practices
+Open that URL in a browser to confirm the backend is running. You should see a success message.
 
-- API keys stored in `.env` (never uploaded)
-- `.gitignore` blocks sensitive and generated files
-- No hard-coded secrets
-- Clean, reproducible setup
+## Run the Frontend
 
----
+Open the frontend file in a browser:
 
-## 📚 Learning Outcomes
+```text
+frontend/index.html
+```
 
-This project demonstrates:
-- RAG-based AI architecture
-- Ethical and domain-restricted AI design
-- Vector search with FAISS
-- Explainable AI responses
-- Full-stack integration
-- Responsible AI development principles
+The frontend sends chat requests to:
 
----
+```text
+http://127.0.0.1:5000/ask
+```
 
-## 🏁 Conclusion
+Keep the backend running while using the chat interface.
 
-**Dharmic AI** is not a generic chatbot.  
-It is a **focused, ethical, and explainable AI system** built to respect domain boundaries and human values.
+## How It Works
 
-The project is suitable for:
-- 🎓 Academic submission
-- 💼 Portfolio showcase
-- 🧠 AI system design discussions
-- 🗣️ Viva & interviews
+1. The user enters a question in the frontend.
+2. The frontend sends the question to the Flask `/ask` endpoint.
+3. The backend checks intent, domain relevance, and safety rules.
+4. The question is embedded with SentenceTransformers.
+5. FAISS retrieves relevant scripture records from the local index.
+6. The answer generator builds a structured Dharmic response.
+7. The frontend renders the response in the chat UI.
 
----
+## Troubleshooting
 
-## 🙏 Acknowledgment
+If the browser shows "site cannot be reached", make sure the Flask backend is running.
 
-Inspired by the timeless wisdom of Dharmic scriptures and the principles of responsible AI.
+If Python cannot find the data files, run the backend from the repository root:
 
+```bash
+python backend/app.py
+```
 
+If package installation fails for FAISS, confirm that you are using a supported Python version and reinstall dependencies inside a clean virtual environment.
 
+## Security Note
 
-
-
-
-
+Do not commit real `.env` files or secrets. Use `.env.example` only for placeholder configuration.
